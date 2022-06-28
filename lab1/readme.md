@@ -1,4 +1,4 @@
-# Vladyslav Sachenko KV-84 LR1
+# Khomenko Valeriy KV-91
 
 Загальне завдання: Розробка статичного інтерфейсу Web-додатка
 https://drive.google.com/file/d/1R7ellofwcNzIRThcmsULeax3izuRybS6/view?usp=sharing
